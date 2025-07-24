@@ -1,0 +1,32 @@
+.navbarCustom {
+  background-color: #1a1a1a;
+  padding: 35px;
+}
+
+.linkCustom {
+  color: white;
+  transition: 0.3s ease;
+  padding: 8px 12px;
+  margin: 10px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.linkCustom:hover {
+  background-color: #333;
+  color: #00ff95;
+}
+
+.activeLink {
+  background-color: #00ff6a;
+  color: black !important;
+}
+
+.brandText {
+  font-size: 32px; 
+}
+
+.ElementsText{
+    font-size: 20px;
+}
+
