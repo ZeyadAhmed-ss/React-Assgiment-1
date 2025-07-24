@@ -2,8 +2,8 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import MainLayout from './components/Mainlayout/Mainlayout';
 import About from './components/About/About';
 import Contact from './components/Contact/Contact';
-import Portfolio from './components/Portfolio/portfolio';
 import Home from './components/Home/Home';
+import Portfolio from './components/Portfolio/Portfolio';
 
 
 const router = createBrowserRouter([
