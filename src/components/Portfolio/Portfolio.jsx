@@ -1,5 +1,6 @@
 import React, { useState } from "react";
-import styles from "./Portfolio.module.css";
+import styles from './Portfolio.module.css';
+
 
 export default function Portfolio() {
   const [selectedImage, setSelectedImage] = useState(null);
